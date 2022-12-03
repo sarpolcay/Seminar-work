@@ -5,7 +5,9 @@ the University of Vienna, where I demonstrated the Gradient Boosting Machines Al
 The statistical methods used during the work are:
 
 -Gradient Boosting Machines.
+
 -Model evaluation criteria such as Sensivity, Specificity, False positive rate, False negative rate, Accuracy and ROC.
+
 -Grid search method for optimizing the GBM hyperparameters.
 
 The data can be found online under:
